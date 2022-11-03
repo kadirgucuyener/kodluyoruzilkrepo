@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [Kodluyoruz] (https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilkl repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilkl repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![Projemizin Resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz] (https://kodluyoruz.org/) Front-End Eğitiminde oluşturdu�
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
-git clone ("https://github.com/kadirgucuyener/kodluyoruzilkrepo.git")
+git clone (https://github.com/kadirgucuyener/kodluyoruzilkrepo.git)
 ```
 
 # Usage
@@ -19,8 +19,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```
-("cd kodluyoruz ilk repo
-code .")
+(cd kodluyoruz ilk repo
+code .)
 ```
 
 # Contributing
